@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en");
+body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  background-color: #f6f6f6;
+  color: #353535;
+  text-align: center; }
+
+.wiki-logo {
+  display: block;
+  width: 10em;
+  height: 160px;
+  margin: 10px auto;
+  background-image: url(https://en.wikipedia.org/static/images/project-logos/enwiki.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-decoration: none; }
+
+.search-form {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.search-content {
+  display: none;
+  border: 1px solid #a7d7f9;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+  padding: 20px 10px 0;
+  text-align: left; }
+  .search-content p {
+    margin-bottom: 20px; }
+  .search-content .wiki-title-link {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: underline; }
+  .search-content .wiki-snippet {
+    font-size: 1em;
+    font-style: italic; }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3Jlc291cmNlcy9zYXNzL2FwcC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGlJQUFZO0FBRVo7RUFDSSwrQ0FBOEM7RUFDOUMsMEJBQXlCO0VBQ3pCLGVBQWM7RUFDZCxtQkFBa0IsRUFDckI7O0FBRUQ7RUFDSSxlQUFjO0VBQ2QsWUFBVztFQUNYLGNBQWE7RUFDYixrQkFBaUI7RUFDakIsdUZBQXNGO0VBQ3RGLDZCQUE0QjtFQUM1QixtQ0FBa0M7RUFDbEMsc0JBQXFCLEVBQ3hCOztBQUVEO0VBQ0ksaUJBQWdCO0VBQ2hCLG9CQUFtQixFQUN0Qjs7QUFFRDtFQUNJLGNBQWE7RUFDYiwwQkFBeUI7RUFDekIsMEJBQXlCO0VBQ3pCLG9CQUFtQjtFQUNuQixxQkFBb0I7RUFDcEIsaUJBQWdCLEVBZ0JuQjtFQXRCRDtJQVNRLG9CQUFtQixFQUN0QjtFQVZMO0lBYVEsaUJBQWdCO0lBQ2hCLGtCQUFpQjtJQUNqQiwyQkFBMEIsRUFDN0I7RUFoQkw7SUFtQlEsZUFBYztJQUNkLG1CQUFrQixFQUNyQiIsImZpbGUiOiJhcHAuY3NzIn0= */

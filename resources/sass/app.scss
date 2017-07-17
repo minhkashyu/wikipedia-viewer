@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en');
+
+body {
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+    background-color: #f6f6f6;
+    color: #353535;
+    text-align: center;
+}
+
+.wiki-logo {
+    display: block;
+    width: 10em;
+    height: 160px;
+    margin: 10px auto;
+    background-image: url(https://en.wikipedia.org/static/images/project-logos/enwiki.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    text-decoration: none;
+}
+
+.search-form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.search-content {
+    display: none;
+    border: 1px solid #a7d7f9;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    padding: 20px 10px 0;
+    text-align: left;
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    .wiki-title-link {
+        font-size: 1.5em;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
+    .wiki-snippet {
+        font-size: 1em;
+        font-style: italic;
+    }
+}
